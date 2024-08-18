@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to bottom, #3498db, #f39c12);
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+#cuerpo {
+    padding: 20px;
+}
+
+.col-4 {
+    margin-bottom: 20px;
+}
+.poke-logo {
+    width: 100px; /* ajusta el ancho según sea necesario */
+    height: auto; /* para mantener la proporción */
+    margin-right: 15px; /* ajusta el margen derecho según sea necesario */
+}
